@@ -1,6 +1,6 @@
 # We Dump Info
 This is a weleakinfo.com dump script.
-#How to use
+# How to use
 1. Search on weleakinfo.com anything you want
 2. Open Console
 3. Paste content from worker.js to your console
