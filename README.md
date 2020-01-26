@@ -1,3 +1,6 @@
+## NOTE: WELEAKINFO.COM IS NOT AVAILABLE ANYMORE, REASON:
+![FBI](https://i.imgur.com/DegvkaN.jpg)
+
 # We Dump Info
 This is a weleakinfo.com dump script.
 # How to use
